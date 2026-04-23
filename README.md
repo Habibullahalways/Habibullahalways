@@ -1,16 +1,55 @@
-# Hi there 👋
-###### Hi there
-<!--
-**Habibullahalways/Habibullahalways** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Habibullah
 
-Here are some ideas to get you started:
+🔐 Ethical Hacker | Cybersecurity Enthusiast | Penetration Tester  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+I am an Ethical Hacker with over **5 years of experience** in cybersecurity.  
+I specialize in identifying vulnerabilities, securing systems, and helping organizations protect their digital assets.
+
+---
+
+## 🛠️ Skills & Expertise
+- 🔍 Web Application Security Testing  
+- 🌐 Network Penetration Testing  
+- 🛡️ Vulnerability Assessment & Risk Analysis  
+- 🧪 Bug Bounty Hunting  
+- 🔐 OWASP Top 10  
+
+---
+
+## ⚙️ Tools & Technologies
+- Burp Suite  
+- Nmap  
+- Metasploit  
+- Wireshark  
+- Nikto  
+- SQLmap  
+
+---
+
+## 📂 Projects
+- 🔹 Web Application Security Audits  
+- 🔹 Custom Penetration Testing Reports  
+- 🔹 Bug Bounty Writeups  
+
+---
+
+## 📜 Certifications *(Add yours here)*
+- CEH (Certified Ethical Hacker) *(if applicable)*  
+- OSCP *(if applicable)*  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/your-username  
+- Email: your-email@example.com  
+
+---
+
+## ⚡ Fun Fact
+I enjoy breaking things to make them more secure 😄  
+
+---
+⭐ *“Security is not a product, but a process.”*
