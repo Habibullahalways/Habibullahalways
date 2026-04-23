@@ -43,7 +43,7 @@ I specialize in identifying vulnerabilities, securing systems, and helping organ
 
 ## 📫 Connect With Me
 - GitHub: [https://github.com/your-username ](https://github.com/Habibullahalways/Habibullahalways) 
-- Email: your-email@example.com  
+- Email: munnavai25102002@gmail.com 
 
 ---
 
