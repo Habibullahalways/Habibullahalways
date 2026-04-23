@@ -15,7 +15,6 @@ I specialize in identifying vulnerabilities, securing systems, and helping organ
 - 🌐 Network Penetration Testing  
 - 🛡️ Vulnerability Assessment & Risk Analysis  
 - 🧪 Bug Bounty Hunting  
-- 🔐 OWASP Top 10  
 
 ---
 
@@ -37,13 +36,13 @@ I specialize in identifying vulnerabilities, securing systems, and helping organ
 ---
 
 ## 📜 Certifications *(Add yours here)*
-- CEH (Certified Ethical Hacker) *(if applicable)*  
-- OSCP *(if applicable)*  
+- CEH (Certified Ethical Hacker) *(By Mission Hackers)*  
+- OSCP *(From Mission Hackers)*  
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/your-username  
+- GitHub: [https://github.com/your-username ](https://github.com/Habibullahalways/Habibullahalways) 
 - Email: your-email@example.com  
 
 ---
